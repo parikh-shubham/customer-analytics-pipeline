@@ -1,4 +1,4 @@
-# Customer Analytics Pipeline Project
+# 📈 Customer Analytics Pipeline Project
 
 Welcome to the **Customer Analytics Pipeline Project** repository! 🚀  
 Designed as a portfolio project, this repository demonstrates an end-to-end analytics pipeline evaluating customer behavior, retention cohorts, segment distribution, and the financial impact of a recommendation algorithm to provide actionable, segment-routed strategies.
@@ -40,7 +40,7 @@ Develop an end-to-end pipeline to move beyond surface-level metrics, utilizing S
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis & Strategy)
+### 📊 BI: Analytics & Reporting (Data Analysis & Strategy)
 
 #### Objective
 Develop Power BI dashboards and executive summaries to deliver detailed, actionable insights into customer retention, promotional efficiency, and channel acquisition.
