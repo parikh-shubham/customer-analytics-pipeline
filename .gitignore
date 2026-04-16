@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data & Database Files
+*.csv
+*.tsv
+*.excel
+*.xlsx
+*.bak
+*.mdf
+*.ldf
+
+# Power BI
+# *.pbix (Uncomment this if your file is over 100MB)
