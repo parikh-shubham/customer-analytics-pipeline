@@ -216,4 +216,4 @@ __marimo__/
 *.ldf
 
 # Power BI
-# *.pbix (Uncomment this if your file is over 100MB)
+# *.pbix (Uncomment this if the file exceeds 100MB)
